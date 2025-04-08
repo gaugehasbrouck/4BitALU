@@ -1,0 +1,19 @@
+# Quartus project temporary files
+db/
+incremental_db/
+output_files/
+*.rpt
+*.smsg
+*.bak
+*.pof
+*.sof
+*.sdf
+*.vcd
+*.vwf
+*.jdi
+*.summary
+*.cmp
+*.pin
+*.qws
+*.sft
+*.vo
